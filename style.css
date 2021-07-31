@@ -678,8 +678,9 @@ footer{
 @media (max-width:970px){
     section.skills .content{
         display: block;
-        
-        
+    }
+    section.contact .wrapper .right .form_group{
+        grid-template-columns: 1fr;
     }
     section.skills .content .left{
         margin-bottom: 20px;
