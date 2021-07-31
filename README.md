@@ -22,7 +22,8 @@
 
 
 ## Tablet Preview
-![completeScreenShotTABLET](https://user-images.githubusercontent.com/35236178/127749671-19e72a62-690b-46e7-a8c0-456dbd3e838e.png)
+![completeScreenShotTABLET](https://user-images.githubusercontent.com/35236178/127749857-48119b73-5130-4393-a10f-82ac75127baf.png)
+
 
 
 ## Mobile Preview
