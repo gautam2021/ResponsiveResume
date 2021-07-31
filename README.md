@@ -15,6 +15,11 @@
 * [Tablet Preview](#Tablet-Preview)
 * [Mobile Preview](#Mobile-Preview)
 
+
+
+
+
+
 #### Technologies: 
 
 1) HTML5
