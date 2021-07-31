@@ -640,6 +640,10 @@ section.contact .wrapper .right button:hover{
     background: var(--secondry);
 }
 
+section.contact .textarea-wrapper textarea{
+    resize :none ;
+}
+
 /* footer */
 footer{
     background: var(--footer);
