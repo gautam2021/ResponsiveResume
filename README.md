@@ -8,6 +8,13 @@
 
 ### [Github Repositry](https://github.com/gautam2021/ResponsiveResume)
 
+## Table of contents
+* [Technologies](#Technologies)
+* [used some external resources for better look](#used-some-external-resources-for-better-look)
+* [Desktop Preview](#Desktop-Preview)
+* [Tablet Preview](#Tablet-Preview)
+* [Mobile Preview](#Mobile-Preview)
+
 #### Technologies: 
 
 1) HTML5
