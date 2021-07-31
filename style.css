@@ -730,6 +730,10 @@ footer{
         width: 100px;
         height: 100px;
     }
+     section.about .content .right >p {
+        text-align: left;
+        display: block;
+    }
     section.profile .right{
         align-self: flex-start;
         margin-left: 1rem;
