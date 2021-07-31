@@ -16,6 +16,11 @@
 4) jQuery
 5) Media Query :- for make it full responsive for every type of screens.
 
+##### used some external resources for better look:
+
+* external icons from Unions version v2.1.3 : [CLick Here..](https://unicons.iconscout.com/release/v2.1.3/css/unicons.css)
+* Google Font-Family version v4.7.0 : [Click Here..](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css)
+* Slick for sliders: [Click Here..](https://kenwheeler.github.io/slick/)
 
 ## Desktop Preview
 ![completeScreenShot](https://user-images.githubusercontent.com/35236178/127748654-d54e4d18-ac3d-4445-9d2f-efc17e127b64.png)
