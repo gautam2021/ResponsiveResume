@@ -726,6 +726,10 @@ footer{
     section.profile{
         align-items: center;
     }
+    section.profile .left img{
+        width: 100px;
+        height: 100px;
+    }
     section.profile .right{
         align-self: flex-start;
         margin-left: 1rem;
