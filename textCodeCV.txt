@@ -827,7 +827,7 @@ html
                                 <p>Rajkiya Engineering College , Sonbhadra</p>
                                 <p class="center">Bachelor of Technology</p>
                                 <p>Computer Science and Engineering</p>
-                                <p>72.73 %</p>
+                                <p>76 %</p>
                             </div>
 
                             <div class="item">
@@ -988,9 +988,9 @@ html
                     <div class="tabs">
                         <ul>
                             <li><a href="#" data-filter='*' class="active">All</a></li>
-                            <li><a href="#" data-filter='.design'>UI/UX Design</a></li>
-                            <li><a href="#" data-filter='.frontend'>Frontend</a></li>
-                            <li><a href="#" data-filter='.backend'>Backend</a></li>
+                            <li><a href="#" data-filter='.design'>Automation Testing</a></li>
+                            <li><a href="#" data-filter='.frontend'>QUality Assurance</a></li>
+                            <li><a href="#" data-filter='.backend'>Functional Testing</a></li>
                         </ul>
                     </div>
                     <div class="portfolio-wrapper">
@@ -1079,7 +1079,7 @@ html
                         </div>
                         <div>
                             <h4>Feel Free To Call Me</h4>
-                            <span>8932923831</span>
+                            <span>+91 8932923831</span>
                         </div>
                     </div>
 
